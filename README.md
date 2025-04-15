@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](solution.png)
 
 
-- Solution URL: [Add solution URL here](https://kilekunnod.github.io/)
+- Solution URL: [Solution URL here](https://kilekunnod.github.io/)
 
 
 ### Built with
